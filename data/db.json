@@ -21,8 +21,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://img.fruugo.com/product/5/59/195412595_max.jpg"
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -167,24 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "r9Sy7FD",
-      "superhero": "Daniel",
-      "publisher": "DC Comics",
-      "alter_ego": "Strider",
-      "first_appearance": "udemy",
-      "characters": "mafaddwa",
-      "alt_img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg"
-    },
-    {
-      "id": "5bLr4XM",
-      "superhero": "Daniel",
-      "publisher": "DC Comics",
-      "alter_ego": "Strider",
-      "first_appearance": "udemy",
-      "characters": "mafaddwa",
-      "alt_img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg"
     }
   ]
 }
